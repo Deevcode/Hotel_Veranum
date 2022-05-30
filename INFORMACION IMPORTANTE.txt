@@ -5,3 +5,5 @@
 |    2. ramaB (Moises Rubio)                                  |
 |    3. ramaC (Patricion Godoy)                               |
 ---------------------------------------------------------------
+
+Documentar todo en sus Respectivos Read Me.
